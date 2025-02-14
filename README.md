@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quellens
-- 👀 I’m interested in Javascript Frontend
-- 🌱 I’m currently learning Java Basics 
+- 👀 I’m interested in JS/TS, React, Vue etc. 
+- 🌱 I’m learning  Usability
 
 <!---
 Quellens/Quellens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
