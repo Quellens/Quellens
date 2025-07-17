@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quellens
-- 👀 I’m interested in Frontend Tech: JS/TS, React, Vue etc.
-- 🌱 Done with it education 
+- 👀 I’m interested in Webdevelopment: JS/TS, React, Next, NodeJS etc.
+- 🌱 Done with IT education
 - 📧 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@joelshady.de) 
 
 # 💻 Tech Stack:
