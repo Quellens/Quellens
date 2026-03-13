@@ -12,5 +12,5 @@ Hi, I'm an Fullstack-Developer and commited to learn with JS/TS
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quellens&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💰 You can help me by Donating
-[![PayPal](https://paypal.me/paypal.me/joelsecker)
+[PayPal](https://paypal.me/paypal.me/joelsecker)
 
