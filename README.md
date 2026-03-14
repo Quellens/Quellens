@@ -23,7 +23,7 @@ Hi, I'm a fullstack-dev and working with JS/TS on Web and Mobile Apps. I studied
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 〈p〉Most used Languages 〈/p〉
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quellens&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quellens&langs_count=8&theme=dark)
 
 ### Links to contact me
 - [E-Mail](mailto:contact@joelshady.de)
